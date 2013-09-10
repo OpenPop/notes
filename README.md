@@ -60,14 +60,14 @@ Of interest
 Other
 -----
 
-https://code.google.com/p/populousmapviewer/ - "3D map viewer for Populous", MIT
+ - https://code.google.com/p/populousmapviewer/ - "3D map viewer for Populous", MIT
 
 Clones/Inspired
 ---------------
 
-https://code.google.com/p/javapop/ - "A Populous-like game in Java.", GPL2
-https://code.google.com/p/propop/ - "a project inspired by populous", MIT
-http://sourceforge.net/projects/oetting/ - "A RTS game which will be a mixture of some classic games like Populous and Megalomaniacs."
-http://sourceforge.net/projects/waroffaith/ - "War of Faith is a God game, inspired by Populous: The Begginning and [...]"
-http://sourceforge.net/projects/freepop/ - "FreePop is a multi-platform tile-based game based on the great old game Populous 2 [...]"
+ - https://code.google.com/p/javapop/ - "A Populous-like game in Java.", GPL2
+ - https://code.google.com/p/propop/ - "a project inspired by populous", MIT
+ - http://sourceforge.net/projects/oetting/ - "A RTS game which will be a mixture of some classic games like Populous and Megalomaniacs."
+ - http://sourceforge.net/projects/waroffaith/ - "War of Faith is a God game, inspired by Populous: The Begginning and [...]"
+ - http://sourceforge.net/projects/freepop/ - "FreePop is a multi-platform tile-based game based on the great old game Populous 2 [...]"
 
