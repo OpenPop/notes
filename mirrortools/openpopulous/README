@@ -1,0 +1,12 @@
+# Performed with reposurgeon 2.40
+
+# Get the repo, working around SF oddity
+make openpopulous-mirror
+mv code-mirror openpopulous-mirror
+
+# Make git repo
+make
+
+# Clean the repo
+cd openpopulous-git
+../cleangitrepo.sh
