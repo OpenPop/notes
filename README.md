@@ -3,13 +3,13 @@ OpenPopulous
 
 Unofficial fork: https://github.com/OpenPop/OpenPopulous
 
-Original idea: http://popre.net/forum/a-possible-path-to-the-source-code-t4799s0.html
-From http://sourceforge.net/projects/openpopulous/ r59
-Official website http://openpop.wildman-productions.org/index.php
+ - Original idea: http://popre.net/forum/a-possible-path-to-the-source-code-t4799s0.html
+ - From http://sourceforge.net/projects/openpopulous/ r59
+ - Official website http://openpop.wildman-productions.org/index.php
 
 TODO: rendering http://gamedev.stackexchange.com/questions/16317/geometry-system-of-populous-the-beginning
 
-http://debian.2.n7.nabble.com/Where-to-put-Open-Transport-Tycoon-openttd-td1940081.html - interesting notes on legality
+http://debian.2.n7.nabble.com/Where-to-put-Open-Transport-Tycoon-openttd-td1940081.html - interesting notes on legality.
 Does openpopulous copy the 'story' of poptb?
 
 Alacn
