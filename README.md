@@ -9,6 +9,9 @@ Official website http://openpop.wildman-productions.org/index.php
 
 TODO: rendering http://gamedev.stackexchange.com/questions/16317/geometry-system-of-populous-the-beginning
 
+http://debian.2.n7.nabble.com/Where-to-put-Open-Transport-Tycoon-openttd-td1940081.html - interesting notes on legality
+Does openpopulous copy the 'story' of poptb?
+
 Alacn
 -----
 
