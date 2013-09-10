@@ -4,7 +4,7 @@ OpenPopulous
 Unofficial fork: https://github.com/OpenPop/OpenPopulous
 
  - Original idea: http://popre.net/forum/a-possible-path-to-the-source-code-t4799s0.html
- - From http://sourceforge.net/projects/openpopulous/ r59
+ - From http://sourceforge.net/projects/openpopulous/ to revision **r59**
  - Official website http://openpop.wildman-productions.org/index.php
 
 TODO: rendering http://gamedev.stackexchange.com/questions/16317/geometry-system-of-populous-the-beginning
@@ -17,6 +17,7 @@ Alacn
 
  - Defining contributor to Populous community.
  - Downloads (and source) at http://alacn.dnsalias.org:8080/populous/
+ - All source possible now ported to github.
  - Got e-mail from him stating all works are in the public domain.
 
 TedTycoon/IntelOrca
