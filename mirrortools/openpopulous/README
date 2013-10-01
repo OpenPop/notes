@@ -1,8 +1,21 @@
 # Performed with reposurgeon 2.40
 
-# Get the repo, working around SF oddity
+# Halfway through the repo history all the files moved from the root directory
+# to a 'trunk' folder i.e. more like a normal svn repo. However, this breaks
+# reposurgeon branch analysis so svn_nobranch has been added in the makefile and
+# a git filter-branch command is run to put them all in the root directory in
+# the final git repo.
+
+# Git repo cleaning also gets rid of large binary files that never should've
+# been committed in the first place. We do lose some important stuff here though
+# (like compiled working executables) so the original svn repo is important.
+
+# Get the repo fresh from SF SVN
 make openpopulous-mirror
-mv code-mirror openpopulous-mirror
+# or for an older snapshot see https://app.box.com/s/p8hqykrgr6qn4y0f5wys
+
+# Work around SF svn url oddity
+ln -s code-mirror openpopulous-mirror
 
 # Make git repo
 make
