@@ -29,6 +29,8 @@ TedTycoon/IntelOrca
  - Contributor to unreleased 2D map editor with Khickman
  - Talk to about releasing source for programs
  - http://www.tedtycoon.co.uk/populous/ had programs but is now dead
+ - https://github.com/IntelOrca/archived-VB6/tree/master/Populous - pop utilities - no licenses
+ - https://github.com/IntelOrca/popss - "Spiritual Successor to Populous 3", no docs
 
 Populous Mana Source (DAroo)
 ----------------------------
@@ -49,10 +51,13 @@ Populous Reincarnated
 
 Lots of knowledge, little source code released.
 
+https://www.popre.net/pop4.txt - record of 'Populous 4' attempts
+
 Official source code efforts
  - http://popre.net/forum/viewtopic.php?t=398 - initial refusal to release after multiplayer servers come down
  - http://popre.net/forum/viewtopic.php?t=1414 - strategy pep talk
  - http://popre.net/forum/source-code-t9953.html - $25,000 for asking says EA (07)
+ - https://www.popre.net/forum/source-code-t9953.html#p221456 - no interest in selling (13)
 
 Of interest
  - http://www.popre.net/forum/interesting-find-populous-the-aftermath-source-code-t10123.html - darkbasic pop clone
