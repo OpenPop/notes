@@ -52,6 +52,8 @@ Populous Reincarnated
 Lots of knowledge, little source code released.
 
 https://www.popre.net/pop4.txt - record of 'Populous 4' attempts
+https://www.popre.net/forum/populous-the-beginning-software-patches-t9537.html - list of populous resources
+http://pop-archive.16mb.com/ - more populous resources
 
 Official source code efforts
  - http://popre.net/forum/viewtopic.php?t=398 - initial refusal to release after multiplayer servers come down
